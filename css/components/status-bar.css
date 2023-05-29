@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 20px;
+  color: white;
 }
 .status-bar__column {
   width: 33%;
@@ -14,7 +15,7 @@
 
 .status-bar__column:nth-child(2) {
   height: 20px;
-  background-color: black;
+  background-color: darkgray;
   border-radius: 10px;
 }
 
