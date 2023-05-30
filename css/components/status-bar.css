@@ -15,7 +15,7 @@
 
 .status-bar__column:nth-child(2) {
   height: 20px;
-  background-color: darkgray;
+  background-color: black;
   border-radius: 10px;
 }
 
