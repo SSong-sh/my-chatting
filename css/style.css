@@ -1,7 +1,8 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
-
+@import "components/screen-header.css";
 @import "screens/login.css";
+@import "screens/friends.css";
 
 @import "reset.css";
 
@@ -22,6 +23,5 @@
 }
 
 body {
-  background-image: url("https://s2.best-wallpaper.net/wallpaper/iphone/2104/Earth-sun-rays-blue-style-stars-space_iphone_1242x2688.jpg");
-  background-size: 600px 1000px;
+  background-color: #404040;
 }

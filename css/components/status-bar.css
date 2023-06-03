@@ -10,7 +10,7 @@
 }
 
 .status-bar__column span {
-  margin-right: 5px;
+  margin: 0 12px;
 }
 
 .status-bar__column:nth-child(2) {
@@ -23,8 +23,4 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
-
-.status-bar__column:last-child i {
-  margin-right: 5px;
 }
