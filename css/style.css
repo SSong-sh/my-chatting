@@ -1,11 +1,13 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
-
+@import "components/user-component.css";
+@import "components/badge.css";
+@import "components/alt-screen-header.css";
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
-
+@import "screens/chat.css";
 @import "reset.css";
 
 @font-face {
@@ -25,5 +27,4 @@
 }
 body {
   background-color: #595959;
-  height: 1000vh;
 }

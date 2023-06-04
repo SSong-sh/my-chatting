@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 70px 30px;
+  margin: 40px 30px;
   box-sizing: border-box;
 }
 .icon-row__icon i {
@@ -21,7 +21,7 @@
 }
 .fine-people {
   color: white;
-  padding: 25px 0px;
+  padding: 20px 0px;
   margin: 0px 30px;
   border-top: 1px solid rgba(255, 255, 255, 0.482);
   border-bottom: 1px solid rgba(255, 255, 255, 0.482);
