@@ -1,8 +1,10 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 @import "reset.css";
 
@@ -23,4 +25,5 @@
 }
 body {
   background-color: #595959;
+  height: 1000vh;
 }
