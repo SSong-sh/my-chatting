@@ -2,9 +2,11 @@
   display: flex;
   color: white;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: -10px;
   font-size: 20px;
   align-items: center;
+  background-color: #333333;
+  padding: 20px;
 }
 
 .screen-header__text {
